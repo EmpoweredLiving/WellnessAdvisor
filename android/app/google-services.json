@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873268890537",
+    "project_id": "empowered-living-wellness",
+    "storage_bucket": "empowered-living-wellness.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873268890537:android:b90cb4560ff7b8298b12b8",
+        "android_client_info": {
+          "package_name": "com.mycompany.empoweredlivingwellness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIi-4uJaUGmWDoFGHOVwzvjCNv1R0ntVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
